@@ -1,4 +1,4 @@
-package epam;
+package Junit;
 
 public class App 
 {

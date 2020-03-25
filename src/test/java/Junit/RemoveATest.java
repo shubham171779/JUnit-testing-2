@@ -1,4 +1,4 @@
-package epam;
+package Junit;
 
 
 import org.junit.Test;
